@@ -1,0 +1,30 @@
+blockchains/smartchain/assets/0x0f4Ae674D1EAA86634c738896A7205B211201F4e/info.json
+{
+    "name": "BiteByte",
+    "symbol": "BBT",
+    "type": "BEP20",
+    "decimals": 18,
+    "description": "BiteByte (BBT) is a next-generation digital token focused on secure transactions and ecosystem utility, ideal for DeFi and real-world applications like loyalty rewards.",
+    "website": "https://bitebyte.io",
+    "explorer": "https://bscscan.com/token/0xA4E674EAB63E789A7028521201F4",
+    "status": "active",
+    "id": "0xA4E674EAB63E789A7028521201F4",
+    "tags": [
+        "defi",
+        "governance"
+    ],
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/bitebyte"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/bitebyte"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://bitebyte.io/whitepaper.pdf"
+        }
+    ]
+}
